@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tha (ฐา)</h1>
-<!-- <h3 align="center">A passionate with technologies development.</h3> -->
+<h3 align="center">"Do not do things which are not you"</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thanidacwn&row=2&column=3)](https://github.com/thanida/github-profile-trophy)
 
@@ -11,7 +11,6 @@
 
 - How to reach me **thanidachaiwongnon23@gmail.com**
 
-- Fun fact **Do not do things which are not you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
