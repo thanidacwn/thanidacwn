@@ -5,7 +5,7 @@
 
 - I’m currently working on **EatsEase**
 
-- I’m currently learning **Javascripts, FastAPI**
+- I’m currently learning **TypeScript, Cypress**
 
 - All of my projects are available at [https://github.com/thanidacwn?tab=repositories](https://github.com/thanidacwn?tab=repositories)
 
