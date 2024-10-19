@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thanidacwn&row=2&column=3)](https://github.com/thanida/github-profile-trophy)
 
-- I’m currently working on **hello-javascript**
+- I’m currently working on **EatsEase**
 
 - I’m currently learning **Javascripts, FastAPI**
 
